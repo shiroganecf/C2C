@@ -294,8 +294,8 @@ def main():
         model_config={
             "rosetta_config": {
                 "base_model": "Qwen/Qwen3-0.6B",
-                "teacher_model": "Qwen/Qwen3-4B",
-                "checkpoints_dir": "local/checkpoints/0.6B_4B_general/final"
+                "teacher_model": "Qwen/Qwen2.5-0.5B-Instruct",
+                "checkpoints_dir": "local/C2C_Fuser/qwen3_0.6b+qwen2.5_0.5b_Fuser/final"
             }
         },
         eval_config={},

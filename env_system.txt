@@ -1,0 +1,6 @@
+# System info (recorded 2026-09-26)
+OS: Ubuntu 24.04.5 LTS
+Python: Python 3.10.21
+GPU / driver: NVIDIA GeForce RTX 5080, 610.60
+WSL kernel: 6.18.33.2-microsoft-standard-WSL2
+# Reinstall torch with: pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu128
