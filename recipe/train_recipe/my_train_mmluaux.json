@@ -13,7 +13,7 @@
                 "dropout": 0.1,
                 "initial_temperature": 1.0,
                 "final_temperature": 0.001,
-                "anneal_steps": 117
+                "anneal_steps": 116
             }
         },
         "mapping": "last_aligned"
